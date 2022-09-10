@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/MyTinySTL-1.0/MyTinySTL/Test",
+  "command": "/usr/bin/c++   -I/mnt/c/MyTinySTL-1.0/$(PROJECT_DIR)/MyTinySTL/Test   -std=c++11 -g -O0   -o CMakeFiles/Test.dir/test.cpp.o -c /mnt/c/MyTinySTL-1.0/MyTinySTL/Test/test.cpp",
+  "file": "/mnt/c/MyTinySTL-1.0/MyTinySTL/Test/test.cpp"
+}
+]

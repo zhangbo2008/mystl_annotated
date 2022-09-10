@@ -1,0 +1,3 @@
+/mnt/c/MyTinySTL-1.0/MyTinySTL/Test/CMakeFiles/rebuild_cache.dir
+/mnt/c/MyTinySTL-1.0/MyTinySTL/Test/CMakeFiles/edit_cache.dir
+/mnt/c/MyTinySTL-1.0/MyTinySTL/Test/CMakeFiles/Test.dir
